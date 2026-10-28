@@ -54,18 +54,24 @@ Alongside my MPhil thesis, I am interested in exploring other topics in experime
 - Machine Learning in Particle Physics
 - Statistical Methods for Collider Analyses
 - Silicon Tracking Detectors and Detector Development
-  
+
 ## GitHub Projects & Workflows
 
-I use this GitHub profile to share selected codes, software setup guides, and computational workflows related to experimental high energy physics.
+This GitHub profile presents selected research codes, software setup guides, and computational workflows related to experimental high energy physics.
 
 The main areas include:
 
-- **Software Setup:** Installation and configuration of MadGraph, Pythia8, Delphes, ROOT/TMVA, and CMS Combine.
-- **Monte Carlo Simulation:** Event generation, parton showering, and detector simulation.
-- **ROOT Analysis:** Event processing, histogramming, and physics visualization.
-- **Machine Learning:** BDT training, testing, and performance evaluation using TMVA.
-- **Statistical Analysis:** Datacards, likelihood-based analysis, and statistical inference using CMS Combine.
+- **[Software Setup](https://github.com/Sidra-Tul-Muntaha-HEP/Experimental-HEP-Workflows/tree/main/Software_Installation):** Installation and configuration of MadGraph, Pythia8, Delphes, ROOT/TMVA, and CMS Combine.
+
+- **[Monte Carlo Simulation](https://github.com/Sidra-Tul-Muntaha-HEP/Experimental-HEP-Workflows/tree/main/Monte_Carlo_Simulation):** Event generation, parton showering, and detector simulation.
+
+- **[HTCondor Batch Production](https://github.com/Sidra-Tul-Muntaha-HEP/Experimental-HEP-Workflows/tree/main/HTCondor_Batch_Production):** Automated job submission, parallel processing, and large-scale Monte Carlo sample production.
+
+- **[ROOT Analysis](https://github.com/Sidra-Tul-Muntaha-HEP/Experimental-HEP-Workflows/tree/main/ROOT_Analysis):** Event processing, histogramming, and physics visualization.
+
+- **Machine Learning:** BDT training, testing, and performance evaluation using [TMVA](https://root.cern/manual/tmva/).
+
+- **Statistical Analysis:** Datacards, likelihood-based analysis, and statistical inference using [CMS Combine](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/v10.5.1/).
 
 ### Programming Languages
 
