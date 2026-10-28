@@ -63,21 +63,18 @@ Alongside my MPhil thesis, I am interested in exploring other topics in experime
 - Machine Learning in Particle Physics
 - Statistical Methods for Collider Analyses
 - Silicon Tracking Detectors and Detector Development
-
+  
 ## GitHub Projects & Workflows
 
-I use this GitHub profile to document and share selected tools, examples, and workflows related to experimental high energy physics.
+I use this GitHub profile to share selected codes, software setup guides, and computational workflows related to experimental high energy physics.
 
-The repositories will cover topics such as:
+The main areas include:
 
-- **Software Installation:** Setting up MadGraph, Delphes, ROOT, TMVA, and CMS Combine.
-- **Monte Carlo Simulation:** Event generation and simulation workflows.
-- **ROOT Analysis:** Event processing, histogramming, and physics plots.
-- **Machine Learning:** BDT training, testing, and performance evaluation.
-- **Statistical Analysis:** Example datacards, binned likelihood analysis, and statistical inference with CMS Combine.
-
-The examples and workflows shared here focus on general computational techniques and analysis methods used in experimental high energy physics.
-
+- **Software Setup:** Installation and configuration of MadGraph, Pythia8, Delphes, ROOT/TMVA, and CMS Combine.
+- **Monte Carlo Simulation:** Event generation, parton showering, and detector simulation.
+- **ROOT Analysis:** Event processing, histogramming, and physics visualization.
+- **Machine Learning:** BDT training, testing, and performance evaluation using TMVA.
+- **Statistical Analysis:** Datacards, likelihood-based analysis, and statistical inference using CMS Combine.
 ## 📩 Contact Me
 
 **Email:** [sidratulmuntaha.hep@gmail.com](mailto:sidratulmuntaha.hep@gmail.com)
