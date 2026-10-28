@@ -120,8 +120,8 @@ The main areas include:
 ### Detector Testing
 
 **Software:** GIPHT · Ph2_ACF · POTATO
+*Silicon tracking detector technologies, module testing and validation, electrical and readout characterization, and detector performance assessment.*
 
-*CMS Phase-II 2S module testing, electrical characterization, and assembly workflow knowledge.*  
 ## Contact Me
 
 **Email:** [sidratulmuntaha.hep@gmail.com](mailto:sidratulmuntaha.hep@gmail.com)
