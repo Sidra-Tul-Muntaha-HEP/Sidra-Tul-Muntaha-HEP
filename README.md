@@ -67,14 +67,14 @@ The main areas include:
 - **Machine Learning:** BDT training, testing, and performance evaluation using TMVA.
 - **Statistical Analysis:** Datacards, likelihood-based analysis, and statistical inference using CMS Combine.
 
-## Tools I Use
-
 ### Programming Languages
 
 <a href="https://en.cppreference.com/w/c/language" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="48" height="48"></a>&nbsp;&nbsp;
 <a href="https://isocpp.org/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"></a>&nbsp;&nbsp;
 <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48"></a>&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48"></a>
+
+## Tools I Use
 
 ### Monte Carlo Simulation
 
