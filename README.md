@@ -3,14 +3,7 @@
 
 **Experimental High Energy Physics | Collider Physics Analysis | Statistical Inference | CMS 2S Modules**
 
-I am an MPhil Physics researcher at **Quaid-i-Azam University (QAU), Islamabad**, and conducted my research at the **National Centre for Physics (NCP), Islamabad**, in the Experimental High Energy Physics (EHEP) Department.
-
-My main interests are in **experimental particle physics**, particularly Higgs and top-quark physics, Monte Carlo simulations, particle reconstruction, machine learning, and statistical analysis of collider events. I am also interested in particle detector development and performance studies.
-# Sidra-Tul-Muntaha
-
-**Experimental High Energy Physics | Collider Physics Analysis | Statistical Inference | CMS 2S Modules**
-
-I am an MPhil Physics researcher at **Quaid-i-Azam University (QAU), Islamabad**, and conducted my research in the **Experimental High Energy Physics (EHEP) Department** at the **National Centre for Physics (NCP), Islamabad**.
+I am an MPhil Physics researcher at **[Quaid-i-Azam University (QAU)](https://qau.edu.pk/), Islamabad**, and conducted my research in the **Experimental High Energy Physics (EHEP) Department** at the **[National Centre for Physics (NCP)](https://www.ncp.edu.pk/), Islamabad**.
 
 My research is related to the [Compact Muon Solenoid (CMS) experiment](https://cms.cern/) at CERN's [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider), with a focus on two main areas:
 
