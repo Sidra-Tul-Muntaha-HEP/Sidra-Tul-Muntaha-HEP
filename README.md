@@ -7,7 +7,7 @@ I am an MPhil Physics researcher at **Quaid-i-Azam University (QAU), Islamabad**
 
 My main interests are in **experimental particle physics**, particularly Higgs and top-quark physics, Monte Carlo simulations, particle reconstruction, machine learning, and statistical analysis of collider events. I am also interested in particle detector development and performance studies.
 
-## 🎓 MPhil Thesis Research
+## MPhil Thesis Research
 
 **Thesis:** *Prospects for tHZ Production in the Dilepton and Jets Final State at the LHC and Performance Studies of 2S Modules for the CMS Phase-II Upgrade.*
 
@@ -40,13 +40,13 @@ My work included:
 - Comparing module performance before and after encapsulation.
 - Gaining knowledge of the **2S module assembly process**, including sensor and hybrid integration, wire bonding, and encapsulation.
 
-## 🔬 Independent Projects & Additional Research
+## Independent Projects & Additional Research
 
 Apart from my MPhil thesis, I am interested in exploring different topics in particle physics and scientific computing.
 
 This section will include smaller projects, independent studies, and analysis tutorials as I complete them. I plan to share brief descriptions, methods, and links to the relevant GitHub repositories.
 
-## 💻 Technical Skills
+## Technical Skills
 
 | Area | Tools and Methods |
 | --- | --- |
@@ -58,7 +58,7 @@ This section will include smaller projects, independent studies, and analysis tu
 | Computing | Linux, CERN lxplus, HTCondor |
 | Detector Studies | CMS 2S Module Testing, Electrical Characterization, Assembly Workflow |
 
-## 🎯 Research Interests
+## Research Interests
 
 - Experimental High Energy Physics
 - Higgs and Top-Quark Physics
@@ -67,7 +67,7 @@ This section will include smaller projects, independent studies, and analysis tu
 - Statistical Methods for Collider Analyses
 - Silicon Tracking Detectors and Detector Development
 
-## 📂 GitHub Projects & Workflows
+## GitHub Projects & Workflows
 
 I use this GitHub profile to document and share selected tools, examples, and workflows related to experimental high energy physics.
 
