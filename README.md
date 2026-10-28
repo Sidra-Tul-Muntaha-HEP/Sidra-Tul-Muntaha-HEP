@@ -81,7 +81,7 @@ The main areas include:
 - **Machine Learning:** BDT training, testing, and performance evaluation using TMVA.
 - **Statistical Analysis:** Datacards, likelihood-based analysis, and statistical inference using CMS Combine.
 
-## 🛠️ Tools I Use
+## Tools I Use
 
 ### Programming Languages
 
