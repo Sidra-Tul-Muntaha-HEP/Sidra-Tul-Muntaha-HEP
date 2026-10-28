@@ -78,7 +78,7 @@ The repositories will cover topics such as:
 
 The examples and workflows shared here focus on general computational techniques and analysis methods used in experimental high energy physics.
 
-## 📩 Contact
+## 📩 Contact Me
 
 **Email:** [sidratulmuntaha.hep@gmail.com](mailto:sidratulmuntaha.hep@gmail.com)
 ```
