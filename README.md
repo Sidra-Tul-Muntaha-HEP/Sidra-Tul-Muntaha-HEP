@@ -80,57 +80,55 @@ The main areas include:
 - **ROOT Analysis:** Event processing, histogramming, and physics visualization.
 - **Machine Learning:** BDT training, testing, and performance evaluation using TMVA.
 - **Statistical Analysis:** Datacards, likelihood-based analysis, and statistical inference using CMS Combine.
-## 🛠️ Tools & Software
+
+## 🛠️ Tools I Use
 
 ### Programming Languages
 
-![C, C++, Python, Bash](https://skillicons.dev/icons?i=c,cpp,py,bash&theme=dark)
+<a href="https://en.cppreference.com/w/c/language" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://isocpp.org/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48"></a>
 
 ### Monte Carlo Simulation
 
-[![MadGraph5_aMC@NLO](https://img.shields.io/badge/MadGraph5__aMC%40NLO-254C68?style=for-the-badge)](https://launchpad.net/mg5amcnlo)
-[![MadSpin](https://img.shields.io/badge/MadSpin-254C68?style=for-the-badge)](https://launchpad.net/mg5amcnlo)
-[![Pythia8](https://img.shields.io/badge/Pythia8-254C68?style=for-the-badge)](https://pythia.org/)
-[![Delphes](https://img.shields.io/badge/Delphes-254C68?style=for-the-badge)](https://delphes.github.io/)
+<a href="https://launchpad.net/mg5amcnlo" title="MadGraph5_aMC@NLO"><img src="https://avatars.githubusercontent.com/u/105280879?v=4" alt="MadGraph5_aMC@NLO" width="75" height="75"></a>&nbsp;&nbsp;
+<a href="https://pythia.org/" title="Pythia8"><img src="https://www.pythia.org/fig/pythia-logo-b.png" alt="Pythia8" width="75" height="75"></a>
+
+**Tools:** [MadGraph5_aMC@NLO](https://launchpad.net/mg5amcnlo) · [MadSpin](https://cp3.irmp.ucl.ac.be/projects/madgraph/wiki/MadSpin) · [Pythia8](https://pythia.org/) · [Delphes](https://delphes.github.io/)
 
 ### Data Analysis & Visualization
 
-[![ROOT](https://img.shields.io/badge/ROOT-3F6780?style=for-the-badge)](https://root.cern/)
-[![PyROOT](https://img.shields.io/badge/PyROOT-3F6780?style=for-the-badge)](https://root.cern/manual/python/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3F6780?style=for-the-badge)](https://matplotlib.org/)
-![ROOTInteractive](https://img.shields.io/badge/ROOTInteractive-3F6780?style=for-the-badge)
+<a href="https://root.cern/" title="ROOT"><img src="https://root.cern/assets/images/logos/png/ROOT_splash_text_bg.png" alt="ROOT Data Analysis Framework" width="165"></a>&nbsp;&nbsp;
+<a href="https://matplotlib.org/" title="Matplotlib"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"></a>
+
+**Tools:** [ROOT](https://root.cern/) · [PyROOT](https://root.cern/manual/python/) · [Matplotlib](https://matplotlib.org/)
 
 ### Machine Learning
 
-[![TMVA](https://img.shields.io/badge/TMVA-366D71?style=for-the-badge)](https://root.cern/manual/tmva/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-366D71?style=for-the-badge)](https://xgboost.ai/)
-[![LightGBM](https://img.shields.io/badge/LightGBM-366D71?style=for-the-badge)](https://lightgbm.readthedocs.io/)
-[![CatBoost](https://img.shields.io/badge/CatBoost-366D71?style=for-the-badge)](https://catboost.ai/)
-[![SHAP](https://img.shields.io/badge/SHAP-366D71?style=for-the-badge)](https://shap.readthedocs.io/)
+**Tools:** [TMVA](https://root.cern/manual/tmva/) · [XGBoost](https://xgboost.ai/) · [LightGBM](https://lightgbm.readthedocs.io/) · [CatBoost](https://catboost.ai/) · [SHAP](https://shap.readthedocs.io/)
 
 *Methods: binary and multiclass BDTs, ROC/AUC evaluation, and overtraining checks.*
 
 ### Statistical Analysis
 
-[![CMS Combine](https://img.shields.io/badge/CMS_Combine-635A89?style=for-the-badge)](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/latest/)
-[![CMSSW](https://img.shields.io/badge/CMSSW-635A89?style=for-the-badge)](https://cms-sw.github.io/)
+**Tools:** [CMS Combine](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/latest/) · [CMSSW](https://cms-sw.github.io/)
 
-*Methods: binned shape analysis, profile likelihoods, nuisance parameters, and statistical uncertainties.*
+*Methods: binned shape analysis, profile likelihoods, nuisance parameters, and Monte Carlo statistical uncertainties.*
 
 ### Computing & Batch Processing
 
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![CERN lxplus](https://img.shields.io/badge/CERN_lxplus-515C6B?style=for-the-badge)
-[![HTCondor](https://img.shields.io/badge/HTCondor-515C6B?style=for-the-badge)](https://htcondor.org/)
+<a href="https://www.kernel.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="56" height="56"></a>&nbsp;&nbsp;
+<a href="https://htcondor.org/" title="HTCondor"><img src="https://htcondor.com/logos/htcondor_logos/PNG/HTCondor_rev_red_notag.png" alt="HTCondor" width="145"></a>
+
+**Systems:** [Linux](https://www.kernel.org/) · [CERN lxplus](https://lxplusdoc.web.cern.ch/) · [HTCondor](https://htcondor.org/)
 
 ### Detector Testing
 
-![GIPHT](https://img.shields.io/badge/GIPHT-6C6263?style=for-the-badge)
-![Ph2_ACF](https://img.shields.io/badge/Ph2__ACF-6C6263?style=for-the-badge)
-![POTATO](https://img.shields.io/badge/POTATO-6C6263?style=for-the-badge)
+**Software:** GIPHT · Ph2_ACF · POTATO
 
-*CMS Phase-II 2S module testing, electrical characterization, and assembly workflow knowledge. Familiar with FC7-based readout, Keithley 2410 SourceMeter, and Rohde & Schwarz HMP4040 power supply.*
-  
+*CMS Phase-II 2S module testing, electrical characterization, and assembly workflow knowledge.*  
+
 ## 📩 Contact Me
 
 **Email:** [sidratulmuntaha.hep@gmail.com](mailto:sidratulmuntaha.hep@gmail.com)
