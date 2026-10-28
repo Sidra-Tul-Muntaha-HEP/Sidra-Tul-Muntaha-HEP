@@ -128,8 +128,11 @@ The main areas include:
 **Software:** GIPHT · Ph2_ACF · POTATO
 
 *CMS Phase-II 2S module testing, electrical characterization, and assembly workflow knowledge.*  
+## Contact Me
 
-## 📩 Contact Me
+<a href="mailto:sidratulmuntaha.hep@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="45"/>
+</a>
 
 **Email:** [sidratulmuntaha.hep@gmail.com](mailto:sidratulmuntaha.hep@gmail.com)
-```
+
