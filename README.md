@@ -48,18 +48,6 @@ My work included:
 ## Additional Research
 Alongside my MPhil thesis, I am interested in exploring other topics in experimental particle physics. This section will include additional research studies, analysis tutorials, and smaller research projects as I complete them. I plan to share brief descriptions, methods, and links to the relevant GitHub repositories.
 
-## Technical Skills
-
-| Area | Tools and Methods |
-| --- | --- |
-| Monte Carlo Simulation | MadGraph5_aMC@NLO, MadSpin, Pythia8, Delphes |
-| Data Analysis | ROOT, PyROOT, Histograms, Event Reconstruction |
-| Machine Learning | TMVA, Binary and Multiclass BDTs, ROC/AUC |
-| Statistical Analysis | CMS Combine, Profile Likelihoods, Shape Analysis, Statistical and Systematic Uncertainties |
-| Programming | C, C++, Python, Bash |
-| Computing | Linux, CERN lxplus, HTCondor |
-| Detector Studies | CMS 2S Module Testing, Electrical Characterization, Assembly Workflow |
-
 ## Research Interests
 
 - Experimental High Energy Physics
