@@ -92,22 +92,23 @@ The main areas include:
 
 ### Machine Learning
 
-**Frameworks & Libraries:** [ROOT TMVA](https://root.cern/manual/tmva/) · [XGBoost](https://xgboost.ai/) · [LightGBM](https://lightgbm.readthedocs.io/) · [CatBoost](https://catboost.ai/)
+**Framework:** [ROOT TMVA](https://root.cern/manual/tmva/) — Boosted Decision Trees (BDTs), AdaBoost, and Gradient Boosting.
 
-**Algorithms:** Boosted Decision Trees (BDTs), AdaBoost, and Gradient Boosting.
+**Additional Algorithms & Libraries:** [XGBoost](https://xgboost.ai/) · [LightGBM](https://lightgbm.readthedocs.io/) · [CatBoost](https://catboost.ai/)
 
-**Classification:** Binary and multiclass classification.
+**Applications:** Binary and multiclass classification.
 
 **Model Evaluation:** ROC/AUC, Kolmogorov–Smirnov (KS) tests, and overtraining checks.
 
 **Model Interpretability:** [SHAP](https://shap.readthedocs.io/)
-
 
 ### Statistical Analysis
 
 **Statistical Software:** [CMS Combine](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/v10.5.1/)
 
 **Computing Framework:** [CMSSW](https://cms-sw.github.io/)
+
+**Statistical Methods:** Binned maximum-likelihood analysis, profile-likelihood inference, nuisance-parameter modelling, and treatment of theoretical and Monte Carlo statistical uncertainties.
 
 ### Computing & Batch Processing
 
