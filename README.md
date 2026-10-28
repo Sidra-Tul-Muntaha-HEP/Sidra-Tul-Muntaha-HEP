@@ -1,45 +1,87 @@
+```markdown
 # Sidra-Tul-Muntaha
 
-**Experimental High Energy Physics Researcher | Collider Physics Analysis | Statistical Inference | CMS 2S Modules**
+**Experimental High Energy Physics | Collider Physics Analysis | Statistical Inference | CMS 2S Modules**
 
-I am an MPhil Physics researcher at **Quaid-i-Azam University (QAU), Islamabad**, with research experience in the **Experimental High Energy Physics (EHEP) Department at the National Centre for Physics (NCP), Islamabad**. My MPhil research focuses on the simulation-based analysis of **tHZ production in the dilepton and jets final state at √s = 13.6 TeV**, involving Monte Carlo simulations, particle reconstruction, machine-learning-based event classification, and statistical inference using CMS Combine.
+I am an MPhil Physics researcher at **Quaid-i-Azam University (QAU), Islamabad**, and conducted my research at the **National Centre for Physics (NCP), Islamabad**, in the Experimental High Energy Physics (EHEP) Department.
 
-Alongside collider physics analysis, I have hands-on experience in **CMS Phase-II Outer Tracker 2S module testing and performance studies**, along with knowledge of the 2S module assembly workflow.
+My main interests are in **experimental particle physics**, particularly Higgs and top-quark physics, Monte Carlo simulations, particle reconstruction, machine learning, and statistical analysis of collider events. I am also interested in particle detector development and performance studies.
 
-## Research experience
+## 🎓 MPhil Thesis Research
 
-### Collider physics analysis — tHZ production
+**Thesis:** *Prospects for tHZ Production in the Dilepton and Jets Final State at the LHC and Performance Studies of 2S Modules for the CMS Phase-II Upgrade.*
 
-- Studied simulated **tHZ production in the dilepton and jets final state** in proton–proton collisions at **13.6 TeV**, including comparisons with 11 background processes.
-- Worked with **MadGraph5_aMC@NLO, MadSpin, Pythia8, and Delphes** for event generation, decay modelling, parton showering, and detector simulation.
-- Investigated reconstruction and b-tagging efficiencies using generator-to-reconstruction matching.
-- Developed and evaluated **binary and multiclass boosted decision tree (BDT)** classifiers using **ROOT/TMVA**.
-- Used **CMS Combine** for BDT-shape-based profile-likelihood statistical analysis, including nuisance parameters and finite-Monte-Carlo statistical uncertainties.
+**University:** Quaid-i-Azam University (QAU), Islamabad  
+**Research Institution:** National Centre for Physics (NCP), Islamabad  
+**Supervisor:** Dr. Ashfaq Ahmad
 
-### CMS Phase-II Outer Tracker — 2S modules
+My MPhil research consists of two parts: a simulation-based collider physics analysis and laboratory studies of silicon tracking detector modules.
 
-- Performed laboratory testing and electrical characterization of **CMS Phase-II 2S modules** at different production and testing stages.
-- Studied sensor leakage current, threshold response, pedestal distributions, and channel noise to assess module performance.
-- Familiar with the **CMS 2S module assembly workflow**, including sensor and hybrid integration, wire bonding, and encapsulation.
+### 1. Collider Physics Analysis — tHZ Production
 
-## Technical toolkit
+I studied **tHZ production in the dilepton and jets final state** using simulated proton–proton collisions at **√s = 13.6 TeV**. The analysis involved signal and background event simulation, particle reconstruction, machine learning, and statistical inference.
 
-| Area | Tools and methods |
+The main steps of my work included:
+
+- Generating and simulating events using **MadGraph5_aMC@NLO, MadSpin, Pythia8, and Delphes**.
+- Studying particle reconstruction and b-tagging efficiencies, including generator-to-reconstruction matching.
+- Developing binary and multiclass **Boosted Decision Tree (BDT)** classifiers using **ROOT/TMVA**.
+- Evaluating classifier performance using ROC curves and training/testing comparisons.
+- Performing a **BDT-shape-based statistical analysis using CMS Combine**, including theoretical and finite Monte Carlo statistical uncertainties.
+
+### 2. CMS Phase-II Outer Tracker — 2S Modules
+
+The second part of my research involved laboratory testing and performance studies of **CMS Phase-II Outer Tracker 2S modules**.
+
+My work included:
+
+- Electrical testing and characterization of 2S modules at different testing stages.
+- Studying sensor leakage current, threshold response, pedestal distributions, and channel noise.
+- Comparing module performance before and after encapsulation.
+- Gaining knowledge of the **2S module assembly process**, including sensor and hybrid integration, wire bonding, and encapsulation.
+
+## 🔬 Independent Projects & Additional Research
+
+Apart from my MPhil thesis, I am interested in exploring different topics in particle physics and scientific computing.
+
+This section will include smaller projects, independent studies, and analysis tutorials as I complete them. I plan to share brief descriptions, methods, and links to the relevant GitHub repositories.
+
+## 💻 Technical Skills
+
+| Area | Tools and Methods |
 | --- | --- |
-| Monte Carlo simulation | MadGraph5_aMC@NLO, MadSpin, Pythia8, Delphes |
-| Data analysis and machine learning | ROOT, PyROOT, TMVA, boosted decision trees |
-| Statistical inference | CMS Combine, binned shape analysis, profile likelihoods, nuisance parameters |
-| Programming and computing | C, C++, Python, Bash, Linux |
-| Detector studies | CMS 2S module testing, electrical characterization, ROOT-based analysis, 2S module assembly workflow |
+| Monte Carlo Simulation | MadGraph5_aMC@NLO, MadSpin, Pythia8, Delphes |
+| Data Analysis | ROOT, PyROOT, Histograms, Event Reconstruction |
+| Machine Learning | TMVA, Binary and Multiclass BDTs, ROC/AUC |
+| Statistical Analysis | CMS Combine, Profile Likelihoods, Shape Analysis, Statistical and Systematic Uncertainties |
+| Programming | C, C++, Python, Bash |
+| Computing | Linux, CERN lxplus, HTCondor |
+| Detector Studies | CMS 2S Module Testing, Electrical Characterization, Assembly Workflow |
 
-## Research interests
+## 🎯 Research Interests
 
-Collider physics · Higgs and top-quark physics · Machine learning in HEP · Statistical inference · Silicon tracking detectors
+- Experimental High Energy Physics
+- Higgs and Top-Quark Physics
+- Collider Physics and Monte Carlo Simulations
+- Machine Learning in Particle Physics
+- Statistical Methods for Collider Analyses
+- Silicon Tracking Detectors and Detector Development
 
-## Research code on GitHub
+## 📂 GitHub Projects & Workflows
 
-This profile will primarily feature **selected simulation and analysis workflows**, including event processing, ROOT-based analysis, TMVA classification, and statistical analysis with CMS Combine. Links to public project repositories will be added as they are organized and released.
+I use this GitHub profile to document and share selected tools, examples, and workflows related to experimental high energy physics.
 
-## Contact
+The repositories will cover topics such as:
+
+- **Software Installation:** Setting up MadGraph, Delphes, ROOT, TMVA, and CMS Combine.
+- **Monte Carlo Simulation:** Event generation and simulation workflows.
+- **ROOT Analysis:** Event processing, histogramming, and physics plots.
+- **Machine Learning:** BDT training, testing, and performance evaluation.
+- **Statistical Analysis:** Example datacards, binned likelihood analysis, and statistical inference with CMS Combine.
+
+The examples and workflows shared here focus on general computational techniques and analysis methods used in experimental high energy physics.
+
+## 📩 Contact
 
 **Email:** [sidratulmuntaha.hep@gmail.com](mailto:sidratulmuntaha.hep@gmail.com)
+```
