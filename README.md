@@ -40,11 +40,8 @@ My work included:
 - Comparing module performance before and after encapsulation.
 - Gaining knowledge of the **2S module assembly process**, including sensor and hybrid integration, wire bonding, and encapsulation.
 
-## Independent Projects & Additional Research
-
-Apart from my MPhil thesis, I am interested in exploring different topics in particle physics and scientific computing.
-
-This section will include smaller projects, independent studies, and analysis tutorials as I complete them. I plan to share brief descriptions, methods, and links to the relevant GitHub repositories.
+## Additional Research
+Alongside my MPhil thesis, I am interested in exploring other topics in experimental particle physics. This section will include additional research studies, analysis tutorials, and smaller research projects as I complete them. I plan to share brief descriptions, methods, and links to the relevant GitHub repositories.
 
 ## Technical Skills
 
