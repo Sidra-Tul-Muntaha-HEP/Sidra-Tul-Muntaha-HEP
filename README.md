@@ -1,6 +1,6 @@
 # Sidra-Tul-Muntaha
 
-**Experimental High Energy Physics Researcher | Collider Physics Analysis | Statistical Inference**
+**Experimental High Energy Physics Researcher | Collider Physics Analysis | Statistical Inference | CMS 2S Modules**
 
 I am an MPhil Physics researcher at **Quaid-i-Azam University (QAU), Islamabad**, with research experience in the **Experimental High Energy Physics (EHEP) Department at the National Centre for Physics (NCP), Islamabad**.
 
