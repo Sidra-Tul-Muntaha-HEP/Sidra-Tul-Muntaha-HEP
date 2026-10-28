@@ -92,22 +92,6 @@ The main areas include:
 
 ### Machine Learning
 
-**Tools:** [TMVA](https://root.cern/manual/tmva/) · [XGBoost](https://xgboost.ai/) · [LightGBM](https://lightgbm.readthedocs.io/) · [CatBoost](https://catboost.ai/) · [SHAP](https://shap.readthedocs.io/)
-
-### Statistical Analysis
-
-**Tools:** [CMS Combine](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/latest/) · [CMSSW](https://cms-sw.github.io/)
-
-*Methods: binned shape analysis, profile likelihoods, nuisance parameters, and Monte Carlo statistical uncertainties.*
-
-### Computing & Batch Processing
-
-<a href="https://www.kernel.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="56" height="56"></a>&nbsp;&nbsp;
-<a href="https://htcondor.org/" title="HTCondor"><img src="https://htcondor.com/logos/htcondor_logos/PNG/HTCondor_rev_red_notag.png" alt="HTCondor" width="145"></a>
-
-**Systems:** [Linux](https://www.kernel.org/) · [CERN lxplus](https://lxplusdoc.web.cern.ch/) · [HTCondor](https://htcondor.org/)
-### Machine Learning
-
 **Frameworks & Libraries:** [ROOT TMVA](https://root.cern/manual/tmva/) · [XGBoost](https://xgboost.ai/) · [LightGBM](https://lightgbm.readthedocs.io/) · [CatBoost](https://catboost.ai/)
 
 **Algorithms:** Boosted Decision Trees (BDTs), AdaBoost, and Gradient Boosting.
@@ -118,13 +102,19 @@ The main areas include:
 
 **Model Interpretability:** [SHAP](https://shap.readthedocs.io/)
 
+
 ### Statistical Analysis
 
 **Statistical Software:** [CMS Combine](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/v10.5.1/)
 
 **Computing Framework:** [CMSSW](https://cms-sw.github.io/)
 
-**Statistical Methods:** Binned maximum-likelihood analysis, profile-likelihood inference, nuisance-parameter modelling, and treatment of theoretical and Monte Carlo statistical uncertainties.
+### Computing & Batch Processing
+
+<a href="https://www.kernel.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="56" height="56"></a>&nbsp;&nbsp;
+<a href="https://htcondor.org/" title="HTCondor"><img src="https://htcondor.com/logos/htcondor_logos/PNG/HTCondor_rev_red_notag.png" alt="HTCondor" width="145"></a>
+
+**Systems:** [Linux](https://www.kernel.org/) · [CERN lxplus](https://lxplusdoc.web.cern.ch/) · [HTCondor](https://htcondor.org/)
 
 ### Detector Testing
 
