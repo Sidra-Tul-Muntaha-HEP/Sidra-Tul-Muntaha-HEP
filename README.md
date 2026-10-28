@@ -4,7 +4,9 @@
 
 I am an MPhil Physics researcher at **Quaid-i-Azam University (QAU), Islamabad**, with research experience in the **Experimental High Energy Physics (EHEP) Department at the National Centre for Physics (NCP), Islamabad**.
 
-My work focuses on **Monte Carlo simulations, particle reconstruction, machine-learning-based event classification, and statistical analysis** for collider physics. I also have hands-on experience with **CMS Phase-II Outer Tracker 2S module testing and performance studies**, along with knowledge of the 2S module assembly workflow.
+My MPhil research focuses on the simulation-based analysis of **tHZ production in the dilepton and jets final state at √s = 13.6 TeV**, involving Monte Carlo simulations, particle reconstruction, machine-learning-based event classification, and statistical inference using CMS Combine.
+
+I also have hands-on experience in **CMS Phase-II Outer Tracker 2S module testing and performance studies**, along with knowledge of the 2S module assembly workflow.
 
 ## Research experience
 
