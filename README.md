@@ -10,8 +10,6 @@ My research is related to the [Compact Muon Solenoid (CMS) experiment](https://c
 - **Collider Physics Analysis:** Simulation-based studies of Higgs and top-quark physics in proton–proton collisions at the LHC.
 - **Detector Studies:** Laboratory testing and performance studies of [CMS Phase-II Outer Tracker 2S Modules](https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/) for the High-Luminosity LHC upgrade.
 
-My broader research interests include **Monte Carlo simulations, particle reconstruction, machine learning, statistical analysis, and detector development**.
-
 ## MPhil Thesis Research
 
 **Thesis:** *Prospects for tHZ Production in the Dilepton and Jets Final State at the LHC and Performance Studies of 2S Modules for the CMS Phase-II Upgrade.*
