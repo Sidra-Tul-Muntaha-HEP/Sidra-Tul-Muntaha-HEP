@@ -69,7 +69,7 @@ The main areas include:
 
 - **[ROOT Analysis](https://github.com/Sidra-Tul-Muntaha-HEP/Experimental-HEP-Workflows/tree/main/ROOT_Analysis):** Event processing, histogramming, and physics visualization.
 
-- **[5. Machine Learning](https://github.com/Sidra-Tul-Muntaha-HEP/Experimental-HEP-Workflows/tree/main/Machine_Learning)** BDT training, testing, and performance evaluation using [TMVA](https://root.cern/manual/tmva/).
+- **[Machine Learning](https://github.com/Sidra-Tul-Muntaha-HEP/Experimental-HEP-Workflows/tree/main/Machine_Learning)** BDT training, testing, and performance evaluation using [TMVA](https://root.cern/manual/tmva/).
 
 - **Statistical Analysis:** Datacards, likelihood-based analysis, and statistical inference using [CMS Combine](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/v10.5.1/).
 
